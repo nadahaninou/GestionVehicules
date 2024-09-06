@@ -2,7 +2,7 @@
 package javaapplication10;
 
 import java.util.LinkedList;
-
+import java.util;
 public interface Administration<T extends Vehicule> {
     
     public boolean SupprimerVehicule();
